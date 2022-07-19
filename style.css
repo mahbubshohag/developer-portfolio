@@ -6,20 +6,22 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .broke{
-    width: 50%;
+    width: 80%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .broke img{
-    width: 80%;
+    width: 100%;
 }
 .link{
     text-decoration: none;
     background-color: gold;
     background-image: -webkit-linear-gradient(orange,red);
     color: white;
-    font-weight: 700;
+    font-weight: 700 ;
     padding: 10px 40px;
     border-radius: 5px;
 }
