@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+}
+.red{
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.broke{
+    width: 50%;
+    padding-left: 5%;
+}
+.broke img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-color: gold;
+    background-image: -webkit-linear-gradient(orange,red);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
